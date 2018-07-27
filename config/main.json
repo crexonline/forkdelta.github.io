@@ -30,7 +30,7 @@
   ],
   "tokens": [
     { "addr": "0xe2b8c03158d6b8fe62e2387143fc6d5bd92d76c8", "name": "NEURAL", "decimals": 18 },
-    { "addr": "0x009e864923b49263c7f10d19b7f8ab7a9a5aad33", "name": "FKX", "decimals": 18 },
+    { "addr": "0x85D0b436c27C1ffB22759B07aFA3760d3fD32403", "name": "CCCP", "decimals": 18 },
     { "addr": "0x00a0cbe98e4d110b0fa82646152d77babf2951d0", "name": "EETHER", "decimals": 18 },
     { "addr": "0x013a06558f07d9e6f9a00c95a33f3a0e0255176b", "name": "BALI", "decimals": 18 },
     { "addr": "0x014b50466590340d41307cc54dcee990c8d58aa8", "name": "ICOS", "decimals": 6 },
